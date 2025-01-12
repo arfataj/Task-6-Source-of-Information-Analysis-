@@ -60,4 +60,7 @@ Displays the total number of mentions for each source.
 - **Insights Section**:
 A textual representation of trends and findings.
 
+![Task 6](https://github.com/user-attachments/assets/046870e0-0227-4543-8a96-864eba5c0f88)
+
+
 ---
