@@ -57,7 +57,7 @@ This analysis focuses on identifying the most common sources of information for 
 - **Summary Table**:
 Displays the total number of mentions for each source.
 
--**Insights Section**:
+- **Insights Section**:
 A textual representation of trends and findings.
 
 ---
